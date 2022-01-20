@@ -1,1 +1,11 @@
 .Rproj.user
+.DS_Store
+Thumbs.db
+.hugo_build.lock
+/public/
+/resources/
+.DS_Store
+Thumbs.db
+.hugo_build.lock
+/public/
+/resources/
