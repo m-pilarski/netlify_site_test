@@ -25,7 +25,6 @@ experience:
   - title: Wissenschaftliche Hilfskraft
     company: Universität Mannheim
     company_url: ''
-    # company_logo: org-x
     location: Mannheim, Deutschland
     date_start: '2021-11-01'
     date_end: '2022-04-31'
