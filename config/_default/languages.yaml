@@ -3,8 +3,11 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
+de:
+  languageCode: de-de
 en:
   languageCode: en-us
+   contentDir: content/en
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
