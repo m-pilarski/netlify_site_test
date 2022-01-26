@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Minimal"
+
+# Optional Google font URL
+google_fonts = "family=Alegreya&family=Alegreya+SC:wght@700"
+
+# Font families
+heading_font = "Alegreya SC"
+body_font = "Alegreya"
+nav_font = "Alegreya"
+mono_font = "Roboto Mono"

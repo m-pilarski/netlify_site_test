@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: 1950s
+theme: minimal
 day_night: true
-font: ''
-font_size: L
+font: minimal
+font_size: XL
 
 # SEO
 
@@ -19,9 +19,14 @@ description: ''
 twitter: ''
 
 # Contact (edit or remove options as required)
+# link: '<a href="https://mailhide.io/e/BnCbRljq" onclick="popup=window.open('https://mailhide.io/e/BnCbRljq','mailhidepopup','width=580,height=635'); return false;">hier mail</a>'
+# email: https://mailhide.io/e/BnCbRljq
 
-email: test@example.org
 contact_links:
+  - icon: envelope
+    icon_pack: fas
+    name: E-Mail
+    link: 'https://mailhide.io/e/BnCbRljq'
   - icon: twitter
     icon_pack: fab
     name: DM Me

@@ -29,19 +29,6 @@ design:
   columns: '2'
 ---
 
-<head>
-  <title>reCAPTCHA demo: Simple page</title>
-  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-</head>
-<body>
-  <form action="?" method="POST">
-    <div class="g-recaptcha" data-sitekey="6Lf2tDseAAAAAEKgAL0yiRFOqf6e84cah-98jkLD"></div>
-    <br/>
-    <input type="submit" value="Submit">
-  </form>
-</body>
-
-
 <!-- <head>
 <script type="module" src="https://unpkg.com/friendly-challenge@0.9.0/widget.module.min.js" async defer></script>
 <script nomodule src="https://unpkg.com/friendly-challenge@0.9.0/widget.min.js" async defer></script>
