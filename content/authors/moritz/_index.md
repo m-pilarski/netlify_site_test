@@ -39,11 +39,11 @@ social:
   link: https://github.com/m-pilarski
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/moritz-pilarski
 superuser: true
 title: Moritz
 ---
 
-Testeste
+Hier steht was über mich...
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
