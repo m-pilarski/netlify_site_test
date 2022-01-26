@@ -11,27 +11,25 @@ education:
 email: ""
 highlight_name: true
 interests:
-- Artificial Intelligence
-- und so
 - Computational Linguistics
 - Information Retrieval
 # organizations:
 # - name: Stanford University
 #   url: https://www.stanford.edu/
 # role: Professor of Artificial Intelligence
+# - icon: envelope
+# icon_pack: fas
+# link: /#contact
+# - icon: graduation-cap
+# icon_pack: fas
+# link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
 - display:
     header: true
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - display:
     header: true
   icon: github
